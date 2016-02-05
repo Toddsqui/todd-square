@@ -8,3 +8,5 @@ This package is going to square a number. So, for example:
 This is going to be put on the npmjs.com website.
 Any questions, please contact me:
 [here](todd.squitieri@alumni.newschool.edu).
+
+The NPM package is available [here](https://www.npmjs.com/package/todd-square)!!

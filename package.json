@@ -1,0 +1,26 @@
+{
+  "name": "todd-square",
+  "version": "1.0.0",
+  "description": "This will produce the square of a number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toddsqui/todd-square.git"
+  },
+  "keywords": [
+    "square",
+    "npm",
+    "squaring",
+    "second",
+    "power"
+  ],
+  "author": "Todd <todd.squitieri@alumni.newschool.edu> (http://www.internationalhustling.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toddsqui/todd-square/issues"
+  },
+  "homepage": "https://github.com/Toddsqui/todd-square#readme"
+}
