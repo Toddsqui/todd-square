@@ -1,6 +1,6 @@
-module.exports = function(a){
-  var result = a;
-  debugger
-  result = result * result;
+var mult = require('../todd-prod');
+
+module.exports = function(result){
+  result = mult(result, result);
   return result;
 }
