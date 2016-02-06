@@ -1,4 +1,4 @@
-var mult = require('../todd-prod');
+var mult = require('todd-prod');
 
 module.exports = function(result){
   result = mult(result, result);

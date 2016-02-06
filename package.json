@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Toddsqui/todd-square/issues"
   },
-  "homepage": "https://github.com/Toddsqui/todd-square#readme"
+  "homepage": "https://github.com/Toddsqui/todd-square#readme",
+  "dependencies": {
+    "todd-prod": "^1.0.1"
+  }
 }
